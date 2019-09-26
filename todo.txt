@@ -1,5 +1,3 @@
-Finish setting up tables and generate proper table of tables.
-
-Continue applying kirsch comments starting from "Example: Step specification file and step definition code sharing the UL"
+Continue applying kirsch comments starting from "The DDD relies also on what are depicted as Clean coding "
 
 
