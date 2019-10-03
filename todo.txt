@@ -1,9 +1,4 @@
-Continue guidelines, the part development,elaborate that part without repapeating hat you defined in the part DDD of the state of the art.
-Since your guideline should not just repeat the state of the art.
 
-Adapt the part assessment, deleting what is unneccessary according to the guidelines.
-
-Adapt the whole document so it forms a logic suite (introduction, conclusion , state of srt, abstract)
 
 Do the acknowledgements and missin non useful parts,
 
